@@ -1,0 +1,3821 @@
+2022/12/01 23:24:21: /messages/
+2022/12/01 23:24:21: Array
+2022/12/01 23:24:21: Array
+2022/12/01 23:24:21: Array
+2022/12/01 23:24:21: /
+2022/12/01 23:24:21: Array
+2022/12/01 23:24:21: Array
+2022/12/01 23:24:21: Array
+2022/12/01 23:24:22: /favicon.ico
+2022/12/01 23:24:22: Array
+2022/12/01 23:24:22: Array
+2022/12/01 23:26:25: 1
+2022/12/01 23:26:25: 1
+2022/12/01 23:26:25: Array
+(
+    [0] => 1
+    [1] => Array
+        (
+            [do] => main
+            [module_name] => app\main\main
+        )
+
+    [2] => Array
+        (
+        )
+
+)
+
+2022/12/01 23:26:25: Array
+(
+    [0] => 1
+    [1] => Array
+        (
+            [do] => main
+            [module_name] => app\main\main
+        )
+
+    [2] => Array
+        (
+        )
+
+)
+
+2022/12/01 23:26:29: 1
+2022/12/01 23:26:29: 1
+2022/12/01 23:26:29: Array
+(
+    [0] => 0
+)
+
+2022/12/01 23:26:35: 1
+2022/12/01 23:26:35: 1
+2022/12/01 23:26:36: Array
+(
+    [0] => 1
+    [1] => Array
+        (
+            [do] => main
+            [module_name] => app\main\main
+        )
+
+    [2] => Array
+        (
+        )
+
+)
+
+2022/12/01 23:26:36: Array
+(
+    [0] => 1
+    [1] => Array
+        (
+            [do] => main
+            [module_name] => app\main\main
+        )
+
+    [2] => Array
+        (
+        )
+
+)
+
+2022/12/01 23:26:52: /
+2022/12/01 23:26:52: Array
+(
+)
+
+2022/12/01 23:26:52: Array
+(
+    [0] => 1
+    [1] => Array
+        (
+            [do] => main
+            [module_name] => app\main\main
+        )
+
+    [2] => Array
+        (
+        )
+
+)
+
+2022/12/01 23:26:52: Array
+(
+    [0] => 1
+    [1] => Array
+        (
+            [do] => main
+            [module_name] => app\main\main
+        )
+
+    [2] => Array
+        (
+        )
+
+)
+
+2022/12/01 23:30:10: /user/1/
+2022/12/01 23:30:10: Array
+(
+)
+
+2022/12/01 23:30:10: Array
+(
+    [0] => 1
+    [1] => Array
+        (
+            [do] => auth_with_user
+            [module_name] => admin\dashboard\users
+        )
+
+    [2] => Array
+        (
+            [id] => 1
+        )
+
+)
+
+2022/12/01 23:30:10: Array
+(
+    [0] => 1
+    [1] => Array
+        (
+            [do] => auth_with_user
+            [module_name] => admin\dashboard\users
+        )
+
+    [2] => Array
+        (
+            [id] => 1
+        )
+
+)
+
+2022/12/01 23:30:10: /login_with_user/693/
+2022/12/01 23:30:10: Array
+(
+)
+
+2022/12/01 23:30:10: Array
+(
+    [0] => 1
+    [1] => Array
+        (
+            [do] => login_with_user
+            [module_name] => app\main\main
+        )
+
+    [2] => Array
+        (
+            [id] => 693
+        )
+
+)
+
+2022/12/01 23:30:10: Array
+(
+    [0] => 1
+    [1] => Array
+        (
+            [do] => login_with_user
+            [module_name] => app\main\main
+        )
+
+    [2] => Array
+        (
+            [id] => 693
+        )
+
+)
+
+2022/12/01 23:30:11: /dashboard/
+2022/12/01 23:30:11: Array
+(
+)
+
+2022/12/01 23:30:11: Array
+(
+    [0] => 1
+    [1] => Array
+        (
+            [do] => main
+            [module_name] => app\dashboard\dashboard
+        )
+
+    [2] => Array
+        (
+        )
+
+)
+
+2022/12/01 23:30:11: Array
+(
+    [0] => 1
+    [1] => Array
+        (
+            [do] => main
+            [module_name] => app\dashboard\dashboard
+        )
+
+    [2] => Array
+        (
+        )
+
+)
+
+2022/12/01 23:30:13: /messages/
+2022/12/01 23:30:13: Array
+(
+)
+
+2022/12/01 23:30:13: Array
+(
+    [0] => 1
+    [1] => Array
+        (
+            [do] => messages
+            [module_name] => app\dashboard\dashboard
+        )
+
+    [2] => Array
+        (
+        )
+
+)
+
+2022/12/01 23:30:13: Array
+(
+    [0] => 1
+    [1] => Array
+        (
+            [do] => messages
+            [module_name] => app\dashboard\dashboard
+        )
+
+    [2] => Array
+        (
+        )
+
+)
+
+2022/12/01 23:30:39: /messages/
+2022/12/01 23:30:39: Array
+(
+)
+
+2022/12/01 23:30:39: Array
+(
+    [0] => 1
+    [1] => Array
+        (
+            [do] => messages
+            [module_name] => app\dashboard\dashboard
+        )
+
+    [2] => Array
+        (
+        )
+
+)
+
+2022/12/01 23:30:39: Array
+(
+    [0] => 1
+    [1] => Array
+        (
+            [do] => messages
+            [module_name] => app\dashboard\dashboard
+        )
+
+    [2] => Array
+        (
+        )
+
+)
+
+2022/12/01 23:31:30: /auth/getid/
+2022/12/01 23:31:30: Array
+(
+)
+
+2022/12/01 23:31:30: Array
+(
+    [0] => 1
+    [1] => Array
+        (
+            [do] => getid
+            [module_name] => api\auth\auth
+        )
+
+    [2] => Array
+        (
+        )
+
+)
+
+2022/12/01 23:31:30: Array
+(
+    [0] => 1
+    [1] => Array
+        (
+            [do] => getid
+            [module_name] => api\auth\auth
+        )
+
+    [2] => Array
+        (
+        )
+
+)
+
+2022/12/01 23:31:57: /users/last_visit/62/
+2022/12/01 23:31:57: /messages/
+2022/12/01 23:31:57: Array
+(
+)
+
+2022/12/01 23:31:57: Array
+(
+)
+
+2022/12/01 23:31:57: Array
+(
+    [0] => 1
+    [1] => Array
+        (
+            [do] => messages
+            [module_name] => app\dashboard\dashboard
+        )
+
+    [2] => Array
+        (
+        )
+
+)
+
+2022/12/01 23:31:57: Array
+(
+    [0] => 1
+    [1] => Array
+        (
+            [do] => last_visit
+            [module_name] => app\users\user
+        )
+
+    [2] => Array
+        (
+            [id] => 62
+        )
+
+)
+
+2022/12/01 23:31:57: Array
+(
+    [0] => 1
+    [1] => Array
+        (
+            [do] => messages
+            [module_name] => app\dashboard\dashboard
+        )
+
+    [2] => Array
+        (
+        )
+
+)
+
+2022/12/01 23:31:57: Array
+(
+    [0] => 1
+    [1] => Array
+        (
+            [do] => last_visit
+            [module_name] => app\users\user
+        )
+
+    [2] => Array
+        (
+            [id] => 62
+        )
+
+)
+
+2022/12/01 23:31:59: /messages/
+2022/12/01 23:31:59: /users/last_visit/57/
+2022/12/01 23:31:59: Array
+(
+)
+
+2022/12/01 23:31:59: Array
+(
+)
+
+2022/12/01 23:31:59: Array
+(
+    [0] => 1
+    [1] => Array
+        (
+            [do] => messages
+            [module_name] => app\dashboard\dashboard
+        )
+
+    [2] => Array
+        (
+        )
+
+)
+
+2022/12/01 23:31:59: Array
+(
+    [0] => 1
+    [1] => Array
+        (
+            [do] => messages
+            [module_name] => app\dashboard\dashboard
+        )
+
+    [2] => Array
+        (
+        )
+
+)
+
+2022/12/01 23:31:59: Array
+(
+    [0] => 1
+    [1] => Array
+        (
+            [do] => last_visit
+            [module_name] => app\users\user
+        )
+
+    [2] => Array
+        (
+            [id] => 57
+        )
+
+)
+
+2022/12/01 23:31:59: Array
+(
+    [0] => 1
+    [1] => Array
+        (
+            [do] => last_visit
+            [module_name] => app\users\user
+        )
+
+    [2] => Array
+        (
+            [id] => 57
+        )
+
+)
+
+2022/12/01 23:32:05: /users/last_visit/62/
+2022/12/01 23:32:05: Array
+(
+)
+
+2022/12/01 23:32:05: /messages/
+2022/12/01 23:32:05: Array
+(
+)
+
+2022/12/01 23:32:05: Array
+(
+    [0] => 1
+    [1] => Array
+        (
+            [do] => last_visit
+            [module_name] => app\users\user
+        )
+
+    [2] => Array
+        (
+            [id] => 62
+        )
+
+)
+
+2022/12/01 23:32:05: Array
+(
+    [0] => 1
+    [1] => Array
+        (
+            [do] => last_visit
+            [module_name] => app\users\user
+        )
+
+    [2] => Array
+        (
+            [id] => 62
+        )
+
+)
+
+2022/12/01 23:32:05: Array
+(
+    [0] => 1
+    [1] => Array
+        (
+            [do] => messages
+            [module_name] => app\dashboard\dashboard
+        )
+
+    [2] => Array
+        (
+        )
+
+)
+
+2022/12/01 23:32:05: Array
+(
+    [0] => 1
+    [1] => Array
+        (
+            [do] => messages
+            [module_name] => app\dashboard\dashboard
+        )
+
+    [2] => Array
+        (
+        )
+
+)
+
+2022/12/01 23:32:05: /messages/
+2022/12/01 23:32:05: Array
+(
+)
+
+2022/12/01 23:32:05: Array
+(
+    [0] => 1
+    [1] => Array
+        (
+            [do] => messages
+            [module_name] => app\dashboard\dashboard
+        )
+
+    [2] => Array
+        (
+        )
+
+)
+
+2022/12/01 23:32:05: Array
+(
+    [0] => 1
+    [1] => Array
+        (
+            [do] => messages
+            [module_name] => app\dashboard\dashboard
+        )
+
+    [2] => Array
+        (
+        )
+
+)
+
+2022/12/01 23:32:10: /auth/getid/
+2022/12/01 23:32:10: Array
+(
+)
+
+2022/12/01 23:32:10: Array
+(
+    [0] => 1
+    [1] => Array
+        (
+            [do] => getid
+            [module_name] => api\auth\auth
+        )
+
+    [2] => Array
+        (
+        )
+
+)
+
+2022/12/01 23:32:10: Array
+(
+    [0] => 1
+    [1] => Array
+        (
+            [do] => getid
+            [module_name] => api\auth\auth
+        )
+
+    [2] => Array
+        (
+        )
+
+)
+
+2022/12/01 23:32:11: /users/last_visit/57/
+2022/12/01 23:32:11: Array
+(
+)
+
+2022/12/01 23:32:11: /messages/
+2022/12/01 23:32:11: Array
+(
+)
+
+2022/12/01 23:32:11: Array
+(
+    [0] => 1
+    [1] => Array
+        (
+            [do] => last_visit
+            [module_name] => app\users\user
+        )
+
+    [2] => Array
+        (
+            [id] => 57
+        )
+
+)
+
+2022/12/01 23:32:11: Array
+(
+    [0] => 1
+    [1] => Array
+        (
+            [do] => last_visit
+            [module_name] => app\users\user
+        )
+
+    [2] => Array
+        (
+            [id] => 57
+        )
+
+)
+
+2022/12/01 23:32:11: Array
+(
+    [0] => 1
+    [1] => Array
+        (
+            [do] => messages
+            [module_name] => app\dashboard\dashboard
+        )
+
+    [2] => Array
+        (
+        )
+
+)
+
+2022/12/01 23:32:11: Array
+(
+    [0] => 1
+    [1] => Array
+        (
+            [do] => messages
+            [module_name] => app\dashboard\dashboard
+        )
+
+    [2] => Array
+        (
+        )
+
+)
+
+2022/12/01 23:42:06: /
+2022/12/01 23:42:06: Array
+(
+)
+
+2022/12/01 23:42:06: Array
+(
+    [0] => 0
+)
+
+2022/12/01 23:42:12: /favicon.ico
+2022/12/01 23:42:12: Array
+(
+)
+
+2022/12/01 23:42:12: Array
+(
+    [0] => 0
+)
+
+2022/12/01 23:42:22: /
+2022/12/01 23:42:22: Array
+(
+)
+
+2022/12/01 23:42:22: Array
+(
+    [0] => 0
+)
+
+2022/12/01 23:42:28: /favicon.ico
+2022/12/01 23:42:28: Array
+(
+)
+
+2022/12/01 23:42:28: Array
+(
+    [0] => 0
+)
+
+2022/12/01 23:44:22: /users/last_visit/1/
+2022/12/01 23:44:22: /messages/
+2022/12/01 23:44:22: Array
+(
+)
+
+2022/12/01 23:44:22: Array
+(
+)
+
+2022/12/01 23:44:22: Array
+(
+    [0] => 1
+    [1] => Array
+        (
+            [do] => messages
+            [module_name] => app\dashboard\dashboard
+        )
+
+    [2] => Array
+        (
+        )
+
+)
+
+2022/12/01 23:44:22: Array
+(
+    [0] => 1
+    [1] => Array
+        (
+            [do] => messages
+            [module_name] => app\dashboard\dashboard
+        )
+
+    [2] => Array
+        (
+        )
+
+)
+
+2022/12/01 23:44:22: Array
+(
+    [0] => 1
+    [1] => Array
+        (
+            [do] => last_visit
+            [module_name] => app\users\user
+        )
+
+    [2] => Array
+        (
+            [id] => 1
+        )
+
+)
+
+2022/12/01 23:44:22: Array
+(
+    [0] => 1
+    [1] => Array
+        (
+            [do] => last_visit
+            [module_name] => app\users\user
+        )
+
+    [2] => Array
+        (
+            [id] => 1
+        )
+
+)
+
+2022/12/01 23:44:22: /
+2022/12/01 23:44:22: /
+2022/12/01 23:44:22: Array
+(
+)
+
+2022/12/01 23:44:22: Array
+(
+)
+
+2022/12/01 23:44:22: Array
+(
+    [0] => 1
+    [1] => Array
+        (
+            [do] => main
+            [module_name] => app\main\main
+        )
+
+    [2] => Array
+        (
+        )
+
+)
+
+2022/12/01 23:44:22: Array
+(
+    [0] => 1
+    [1] => Array
+        (
+            [do] => main
+            [module_name] => app\main\main
+        )
+
+    [2] => Array
+        (
+        )
+
+)
+
+2022/12/01 23:44:22: Array
+(
+    [0] => 1
+    [1] => Array
+        (
+            [do] => main
+            [module_name] => app\main\main
+        )
+
+    [2] => Array
+        (
+        )
+
+)
+
+2022/12/01 23:44:22: Array
+(
+    [0] => 1
+    [1] => Array
+        (
+            [do] => main
+            [module_name] => app\main\main
+        )
+
+    [2] => Array
+        (
+        )
+
+)
+
+2022/12/01 23:44:23: /users/last_visit/57/
+2022/12/01 23:44:23: Array
+(
+)
+
+2022/12/01 23:44:23: /messages/
+2022/12/01 23:44:23: Array
+(
+)
+
+2022/12/01 23:44:23: Array
+(
+    [0] => 1
+    [1] => Array
+        (
+            [do] => last_visit
+            [module_name] => app\users\user
+        )
+
+    [2] => Array
+        (
+            [id] => 57
+        )
+
+)
+
+2022/12/01 23:44:23: Array
+(
+    [0] => 1
+    [1] => Array
+        (
+            [do] => last_visit
+            [module_name] => app\users\user
+        )
+
+    [2] => Array
+        (
+            [id] => 57
+        )
+
+)
+
+2022/12/01 23:44:23: Array
+(
+    [0] => 1
+    [1] => Array
+        (
+            [do] => messages
+            [module_name] => app\dashboard\dashboard
+        )
+
+    [2] => Array
+        (
+        )
+
+)
+
+2022/12/01 23:44:23: Array
+(
+    [0] => 1
+    [1] => Array
+        (
+            [do] => messages
+            [module_name] => app\dashboard\dashboard
+        )
+
+    [2] => Array
+        (
+        )
+
+)
+
+2022/12/01 23:44:23: /
+2022/12/01 23:44:23: /
+2022/12/01 23:44:23: Array
+(
+)
+
+2022/12/01 23:44:23: Array
+(
+)
+
+2022/12/01 23:44:23: Array
+(
+    [0] => 1
+    [1] => Array
+        (
+            [do] => main
+            [module_name] => app\main\main
+        )
+
+    [2] => Array
+        (
+        )
+
+)
+
+2022/12/01 23:44:23: Array
+(
+    [0] => 1
+    [1] => Array
+        (
+            [do] => main
+            [module_name] => app\main\main
+        )
+
+    [2] => Array
+        (
+        )
+
+)
+
+2022/12/01 23:44:23: Array
+(
+    [0] => 1
+    [1] => Array
+        (
+            [do] => main
+            [module_name] => app\main\main
+        )
+
+    [2] => Array
+        (
+        )
+
+)
+
+2022/12/01 23:44:23: Array
+(
+    [0] => 1
+    [1] => Array
+        (
+            [do] => main
+            [module_name] => app\main\main
+        )
+
+    [2] => Array
+        (
+        )
+
+)
+
+2022/12/01 23:44:24: /messages/
+2022/12/01 23:44:24: Array
+(
+)
+
+2022/12/01 23:44:24: Array
+(
+    [0] => 1
+    [1] => Array
+        (
+            [do] => messages
+            [module_name] => app\dashboard\dashboard
+        )
+
+    [2] => Array
+        (
+        )
+
+)
+
+2022/12/01 23:44:24: Array
+(
+    [0] => 1
+    [1] => Array
+        (
+            [do] => messages
+            [module_name] => app\dashboard\dashboard
+        )
+
+    [2] => Array
+        (
+        )
+
+)
+
+2022/12/01 23:44:24: /
+2022/12/01 23:44:24: Array
+(
+)
+
+2022/12/01 23:44:24: Array
+(
+    [0] => 1
+    [1] => Array
+        (
+            [do] => main
+            [module_name] => app\main\main
+        )
+
+    [2] => Array
+        (
+        )
+
+)
+
+2022/12/01 23:44:24: Array
+(
+    [0] => 1
+    [1] => Array
+        (
+            [do] => main
+            [module_name] => app\main\main
+        )
+
+    [2] => Array
+        (
+        )
+
+)
+
+2022/12/01 23:44:26: /user/1/
+2022/12/01 23:44:26: Array
+(
+)
+
+2022/12/01 23:44:26: Array
+(
+    [0] => 1
+    [1] => Array
+        (
+            [do] => auth_with_user
+            [module_name] => admin\dashboard\users
+        )
+
+    [2] => Array
+        (
+            [id] => 1
+        )
+
+)
+
+2022/12/01 23:44:26: Array
+(
+    [0] => 1
+    [1] => Array
+        (
+            [do] => auth_with_user
+            [module_name] => admin\dashboard\users
+        )
+
+    [2] => Array
+        (
+            [id] => 1
+        )
+
+)
+
+2022/12/01 23:44:26: /login_with_user/694/
+2022/12/01 23:44:26: Array
+(
+)
+
+2022/12/01 23:44:26: Array
+(
+    [0] => 1
+    [1] => Array
+        (
+            [do] => login_with_user
+            [module_name] => app\main\main
+        )
+
+    [2] => Array
+        (
+            [id] => 694
+        )
+
+)
+
+2022/12/01 23:44:26: Array
+(
+    [0] => 1
+    [1] => Array
+        (
+            [do] => login_with_user
+            [module_name] => app\main\main
+        )
+
+    [2] => Array
+        (
+            [id] => 694
+        )
+
+)
+
+2022/12/01 23:44:26: /dashboard/
+2022/12/01 23:44:26: Array
+(
+)
+
+2022/12/01 23:44:26: Array
+(
+    [0] => 1
+    [1] => Array
+        (
+            [do] => main
+            [module_name] => app\dashboard\dashboard
+        )
+
+    [2] => Array
+        (
+        )
+
+)
+
+2022/12/01 23:44:26: Array
+(
+    [0] => 1
+    [1] => Array
+        (
+            [do] => main
+            [module_name] => app\dashboard\dashboard
+        )
+
+    [2] => Array
+        (
+        )
+
+)
+
+2022/12/01 23:44:30: /messages/
+2022/12/01 23:44:30: Array
+(
+)
+
+2022/12/01 23:44:30: Array
+(
+    [0] => 1
+    [1] => Array
+        (
+            [do] => messages
+            [module_name] => app\dashboard\dashboard
+        )
+
+    [2] => Array
+        (
+        )
+
+)
+
+2022/12/01 23:44:30: Array
+(
+    [0] => 1
+    [1] => Array
+        (
+            [do] => messages
+            [module_name] => app\dashboard\dashboard
+        )
+
+    [2] => Array
+        (
+        )
+
+)
+
+2022/12/01 23:44:31: /auth/getid/
+2022/12/01 23:44:31: Array
+(
+)
+
+2022/12/01 23:44:31: Array
+(
+    [0] => 1
+    [1] => Array
+        (
+            [do] => getid
+            [module_name] => api\auth\auth
+        )
+
+    [2] => Array
+        (
+        )
+
+)
+
+2022/12/01 23:44:31: Array
+(
+    [0] => 1
+    [1] => Array
+        (
+            [do] => getid
+            [module_name] => api\auth\auth
+        )
+
+    [2] => Array
+        (
+        )
+
+)
+
+2022/12/01 23:44:32: /users/last_visit/57/
+2022/12/01 23:44:32: /messages/
+2022/12/01 23:44:32: Array
+(
+)
+
+2022/12/01 23:44:32: Array
+(
+)
+
+2022/12/01 23:44:32: Array
+(
+    [0] => 1
+    [1] => Array
+        (
+            [do] => messages
+            [module_name] => app\dashboard\dashboard
+        )
+
+    [2] => Array
+        (
+        )
+
+)
+
+2022/12/01 23:44:32: Array
+(
+    [0] => 1
+    [1] => Array
+        (
+            [do] => last_visit
+            [module_name] => app\users\user
+        )
+
+    [2] => Array
+        (
+            [id] => 57
+        )
+
+)
+
+2022/12/01 23:44:32: Array
+(
+    [0] => 1
+    [1] => Array
+        (
+            [do] => messages
+            [module_name] => app\dashboard\dashboard
+        )
+
+    [2] => Array
+        (
+        )
+
+)
+
+2022/12/01 23:44:32: Array
+(
+    [0] => 1
+    [1] => Array
+        (
+            [do] => last_visit
+            [module_name] => app\users\user
+        )
+
+    [2] => Array
+        (
+            [id] => 57
+        )
+
+)
+
+2022/12/01 23:44:32: /messenger/read/
+2022/12/01 23:44:32: Array
+(
+)
+
+2022/12/01 23:44:32: Array
+(
+    [0] => 1
+    [1] => Array
+        (
+            [do] => read_messages
+            [module_name] => api\messenger\messenger
+        )
+
+    [2] => Array
+        (
+        )
+
+)
+
+2022/12/01 23:44:32: Array
+(
+    [0] => 1
+    [1] => Array
+        (
+            [do] => read_messages
+            [module_name] => api\messenger\messenger
+        )
+
+    [2] => Array
+        (
+        )
+
+)
+
+2022/12/01 23:45:48: /messenger/send/
+2022/12/01 23:45:48: Array
+(
+)
+
+2022/12/01 23:45:48: Array
+(
+    [0] => 1
+    [1] => Array
+        (
+            [do] => send
+            [module_name] => api\messenger\messenger
+        )
+
+    [2] => Array
+        (
+        )
+
+)
+
+2022/12/01 23:45:48: Array
+(
+    [0] => 1
+    [1] => Array
+        (
+            [do] => send
+            [module_name] => api\messenger\messenger
+        )
+
+    [2] => Array
+        (
+        )
+
+)
+
+2022/12/01 23:45:48: /users/last_visit/57/
+2022/12/01 23:45:48: /users/last_visit/57/
+2022/12/01 23:45:48: Array
+(
+)
+
+2022/12/01 23:45:48: Array
+(
+)
+
+2022/12/01 23:45:48: Array
+(
+    [0] => 1
+    [1] => Array
+        (
+            [do] => last_visit
+            [module_name] => app\users\user
+        )
+
+    [2] => Array
+        (
+            [id] => 57
+        )
+
+)
+
+2022/12/01 23:45:48: Array
+(
+    [0] => 1
+    [1] => Array
+        (
+            [do] => last_visit
+            [module_name] => app\users\user
+        )
+
+    [2] => Array
+        (
+            [id] => 57
+        )
+
+)
+
+2022/12/01 23:45:48: Array
+(
+    [0] => 1
+    [1] => Array
+        (
+            [do] => last_visit
+            [module_name] => app\users\user
+        )
+
+    [2] => Array
+        (
+            [id] => 57
+        )
+
+)
+
+2022/12/01 23:45:48: Array
+(
+    [0] => 1
+    [1] => Array
+        (
+            [do] => last_visit
+            [module_name] => app\users\user
+        )
+
+    [2] => Array
+        (
+            [id] => 57
+        )
+
+)
+
+2022/12/01 23:45:54: /messages/
+2022/12/01 23:45:54: Array
+(
+)
+
+2022/12/01 23:45:54: Array
+(
+    [0] => 1
+    [1] => Array
+        (
+            [do] => messages
+            [module_name] => app\dashboard\dashboard
+        )
+
+    [2] => Array
+        (
+        )
+
+)
+
+2022/12/01 23:45:54: Array
+(
+    [0] => 1
+    [1] => Array
+        (
+            [do] => messages
+            [module_name] => app\dashboard\dashboard
+        )
+
+    [2] => Array
+        (
+        )
+
+)
+
+2022/12/01 23:45:58: /auth/getid/
+2022/12/01 23:45:58: Array
+(
+)
+
+2022/12/01 23:45:58: Array
+(
+    [0] => 1
+    [1] => Array
+        (
+            [do] => getid
+            [module_name] => api\auth\auth
+        )
+
+    [2] => Array
+        (
+        )
+
+)
+
+2022/12/01 23:45:58: Array
+(
+    [0] => 1
+    [1] => Array
+        (
+            [do] => getid
+            [module_name] => api\auth\auth
+        )
+
+    [2] => Array
+        (
+        )
+
+)
+
+2022/12/01 23:46:09: /users/last_visit/57/
+2022/12/01 23:46:09: /messages/
+2022/12/01 23:46:09: Array
+(
+)
+
+2022/12/01 23:46:09: Array
+(
+)
+
+2022/12/01 23:46:09: Array
+(
+    [0] => 1
+    [1] => Array
+        (
+            [do] => messages
+            [module_name] => app\dashboard\dashboard
+        )
+
+    [2] => Array
+        (
+        )
+
+)
+
+2022/12/01 23:46:09: Array
+(
+    [0] => 1
+    [1] => Array
+        (
+            [do] => messages
+            [module_name] => app\dashboard\dashboard
+        )
+
+    [2] => Array
+        (
+        )
+
+)
+
+2022/12/01 23:46:09: Array
+(
+    [0] => 1
+    [1] => Array
+        (
+            [do] => last_visit
+            [module_name] => app\users\user
+        )
+
+    [2] => Array
+        (
+            [id] => 57
+        )
+
+)
+
+2022/12/01 23:46:09: Array
+(
+    [0] => 1
+    [1] => Array
+        (
+            [do] => last_visit
+            [module_name] => app\users\user
+        )
+
+    [2] => Array
+        (
+            [id] => 57
+        )
+
+)
+
+2022/12/01 23:46:09: /messenger/read/
+2022/12/01 23:46:09: Array
+(
+)
+
+2022/12/01 23:46:09: Array
+(
+    [0] => 1
+    [1] => Array
+        (
+            [do] => read_messages
+            [module_name] => api\messenger\messenger
+        )
+
+    [2] => Array
+        (
+        )
+
+)
+
+2022/12/01 23:46:09: Array
+(
+    [0] => 1
+    [1] => Array
+        (
+            [do] => read_messages
+            [module_name] => api\messenger\messenger
+        )
+
+    [2] => Array
+        (
+        )
+
+)
+
+2022/12/01 23:46:10: /users/last_visit/57/
+2022/12/01 23:46:10: Array
+(
+)
+
+2022/12/01 23:46:10: /users/last_visit/57/
+2022/12/01 23:46:10: Array
+(
+)
+
+2022/12/01 23:46:10: Array
+(
+    [0] => 1
+    [1] => Array
+        (
+            [do] => last_visit
+            [module_name] => app\users\user
+        )
+
+    [2] => Array
+        (
+            [id] => 57
+        )
+
+)
+
+2022/12/01 23:46:10: Array
+(
+    [0] => 1
+    [1] => Array
+        (
+            [do] => last_visit
+            [module_name] => app\users\user
+        )
+
+    [2] => Array
+        (
+            [id] => 57
+        )
+
+)
+
+2022/12/01 23:46:10: /messenger/send/
+2022/12/01 23:46:10: Array
+(
+)
+
+2022/12/01 23:46:10: Array
+(
+    [0] => 1
+    [1] => Array
+        (
+            [do] => last_visit
+            [module_name] => app\users\user
+        )
+
+    [2] => Array
+        (
+            [id] => 57
+        )
+
+)
+
+2022/12/01 23:46:10: Array
+(
+    [0] => 1
+    [1] => Array
+        (
+            [do] => last_visit
+            [module_name] => app\users\user
+        )
+
+    [2] => Array
+        (
+            [id] => 57
+        )
+
+)
+
+2022/12/01 23:46:10: Array
+(
+    [0] => 1
+    [1] => Array
+        (
+            [do] => send
+            [module_name] => api\messenger\messenger
+        )
+
+    [2] => Array
+        (
+        )
+
+)
+
+2022/12/01 23:46:10: Array
+(
+    [0] => 1
+    [1] => Array
+        (
+            [do] => send
+            [module_name] => api\messenger\messenger
+        )
+
+    [2] => Array
+        (
+        )
+
+)
+
+2022/12/01 23:47:04: /messages/
+2022/12/01 23:47:04: Array
+(
+)
+
+2022/12/01 23:47:04: Array
+(
+    [0] => 1
+    [1] => Array
+        (
+            [do] => messages
+            [module_name] => app\dashboard\dashboard
+        )
+
+    [2] => Array
+        (
+        )
+
+)
+
+2022/12/01 23:47:04: Array
+(
+    [0] => 1
+    [1] => Array
+        (
+            [do] => messages
+            [module_name] => app\dashboard\dashboard
+        )
+
+    [2] => Array
+        (
+        )
+
+)
+
+2022/12/01 23:47:05: /auth/getid/
+2022/12/01 23:47:05: Array
+(
+)
+
+2022/12/01 23:47:05: Array
+(
+    [0] => 1
+    [1] => Array
+        (
+            [do] => getid
+            [module_name] => api\auth\auth
+        )
+
+    [2] => Array
+        (
+        )
+
+)
+
+2022/12/01 23:47:05: Array
+(
+    [0] => 1
+    [1] => Array
+        (
+            [do] => getid
+            [module_name] => api\auth\auth
+        )
+
+    [2] => Array
+        (
+        )
+
+)
+
+2022/12/01 23:47:06: /users/last_visit/57/
+2022/12/01 23:47:06: /messages/
+2022/12/01 23:47:06: Array
+(
+)
+
+2022/12/01 23:47:06: Array
+(
+)
+
+2022/12/01 23:47:06: Array
+(
+    [0] => 1
+    [1] => Array
+        (
+            [do] => messages
+            [module_name] => app\dashboard\dashboard
+        )
+
+    [2] => Array
+        (
+        )
+
+)
+
+2022/12/01 23:47:06: Array
+(
+    [0] => 1
+    [1] => Array
+        (
+            [do] => messages
+            [module_name] => app\dashboard\dashboard
+        )
+
+    [2] => Array
+        (
+        )
+
+)
+
+2022/12/01 23:47:06: Array
+(
+    [0] => 1
+    [1] => Array
+        (
+            [do] => last_visit
+            [module_name] => app\users\user
+        )
+
+    [2] => Array
+        (
+            [id] => 57
+        )
+
+)
+
+2022/12/01 23:47:06: Array
+(
+    [0] => 1
+    [1] => Array
+        (
+            [do] => last_visit
+            [module_name] => app\users\user
+        )
+
+    [2] => Array
+        (
+            [id] => 57
+        )
+
+)
+
+2022/12/01 23:47:06: /messenger/read/
+2022/12/01 23:47:06: Array
+(
+)
+
+2022/12/01 23:47:06: Array
+(
+    [0] => 1
+    [1] => Array
+        (
+            [do] => read_messages
+            [module_name] => api\messenger\messenger
+        )
+
+    [2] => Array
+        (
+        )
+
+)
+
+2022/12/01 23:47:06: Array
+(
+    [0] => 1
+    [1] => Array
+        (
+            [do] => read_messages
+            [module_name] => api\messenger\messenger
+        )
+
+    [2] => Array
+        (
+        )
+
+)
+
+2022/12/01 23:47:07: /messenger/send/
+2022/12/01 23:47:07: Array
+(
+)
+
+2022/12/01 23:47:07: Array
+(
+    [0] => 1
+    [1] => Array
+        (
+            [do] => send
+            [module_name] => api\messenger\messenger
+        )
+
+    [2] => Array
+        (
+        )
+
+)
+
+2022/12/01 23:47:07: Array
+(
+    [0] => 1
+    [1] => Array
+        (
+            [do] => send
+            [module_name] => api\messenger\messenger
+        )
+
+    [2] => Array
+        (
+        )
+
+)
+
+2022/12/01 23:47:07: /users/last_visit/57/
+2022/12/01 23:47:07: Array
+(
+)
+
+2022/12/01 23:47:07: Array
+(
+    [0] => 1
+    [1] => Array
+        (
+            [do] => last_visit
+            [module_name] => app\users\user
+        )
+
+    [2] => Array
+        (
+            [id] => 57
+        )
+
+)
+
+2022/12/01 23:47:07: Array
+(
+    [0] => 1
+    [1] => Array
+        (
+            [do] => last_visit
+            [module_name] => app\users\user
+        )
+
+    [2] => Array
+        (
+            [id] => 57
+        )
+
+)
+
+2022/12/01 23:47:07: /users/last_visit/57/
+2022/12/01 23:47:07: Array
+(
+)
+
+2022/12/01 23:47:07: Array
+(
+    [0] => 1
+    [1] => Array
+        (
+            [do] => last_visit
+            [module_name] => app\users\user
+        )
+
+    [2] => Array
+        (
+            [id] => 57
+        )
+
+)
+
+2022/12/01 23:47:07: Array
+(
+    [0] => 1
+    [1] => Array
+        (
+            [do] => last_visit
+            [module_name] => app\users\user
+        )
+
+    [2] => Array
+        (
+            [id] => 57
+        )
+
+)
+
+2022/12/01 23:47:42: /messenger/send/
+2022/12/01 23:47:42: Array
+(
+)
+
+2022/12/01 23:47:42: Array
+(
+    [0] => 1
+    [1] => Array
+        (
+            [do] => send
+            [module_name] => api\messenger\messenger
+        )
+
+    [2] => Array
+        (
+        )
+
+)
+
+2022/12/01 23:47:42: Array
+(
+    [0] => 1
+    [1] => Array
+        (
+            [do] => send
+            [module_name] => api\messenger\messenger
+        )
+
+    [2] => Array
+        (
+        )
+
+)
+
+2022/12/01 23:47:42: /users/last_visit/57/
+2022/12/01 23:47:42: Array
+(
+)
+
+2022/12/01 23:47:42: Array
+(
+    [0] => 1
+    [1] => Array
+        (
+            [do] => last_visit
+            [module_name] => app\users\user
+        )
+
+    [2] => Array
+        (
+            [id] => 57
+        )
+
+)
+
+2022/12/01 23:47:42: Array
+(
+    [0] => 1
+    [1] => Array
+        (
+            [do] => last_visit
+            [module_name] => app\users\user
+        )
+
+    [2] => Array
+        (
+            [id] => 57
+        )
+
+)
+
+2022/12/01 23:47:42: /users/last_visit/57/
+2022/12/01 23:47:42: Array
+(
+)
+
+2022/12/01 23:47:42: Array
+(
+    [0] => 1
+    [1] => Array
+        (
+            [do] => last_visit
+            [module_name] => app\users\user
+        )
+
+    [2] => Array
+        (
+            [id] => 57
+        )
+
+)
+
+2022/12/01 23:47:42: Array
+(
+    [0] => 1
+    [1] => Array
+        (
+            [do] => last_visit
+            [module_name] => app\users\user
+        )
+
+    [2] => Array
+        (
+            [id] => 57
+        )
+
+)
+
+2022/12/01 23:48:09: /
+2022/12/01 23:48:09: Array
+(
+)
+
+2022/12/01 23:48:09: Array
+(
+    [0] => 0
+)
+
+2022/12/01 23:48:38: /messenger/send/
+2022/12/01 23:48:38: Array
+(
+)
+
+2022/12/01 23:48:38: Array
+(
+    [0] => 1
+    [1] => Array
+        (
+            [do] => send
+            [module_name] => api\messenger\messenger
+        )
+
+    [2] => Array
+        (
+        )
+
+)
+
+2022/12/01 23:48:38: Array
+(
+    [0] => 1
+    [1] => Array
+        (
+            [do] => send
+            [module_name] => api\messenger\messenger
+        )
+
+    [2] => Array
+        (
+        )
+
+)
+
+2022/12/01 23:48:39: /users/last_visit/57/
+2022/12/01 23:48:39: Array
+(
+)
+
+2022/12/01 23:48:39: Array
+(
+    [0] => 1
+    [1] => Array
+        (
+            [do] => last_visit
+            [module_name] => app\users\user
+        )
+
+    [2] => Array
+        (
+            [id] => 57
+        )
+
+)
+
+2022/12/01 23:48:39: Array
+(
+    [0] => 1
+    [1] => Array
+        (
+            [do] => last_visit
+            [module_name] => app\users\user
+        )
+
+    [2] => Array
+        (
+            [id] => 57
+        )
+
+)
+
+2022/12/01 23:48:39: /users/last_visit/57/
+2022/12/01 23:48:39: Array
+(
+)
+
+2022/12/01 23:48:39: Array
+(
+    [0] => 1
+    [1] => Array
+        (
+            [do] => last_visit
+            [module_name] => app\users\user
+        )
+
+    [2] => Array
+        (
+            [id] => 57
+        )
+
+)
+
+2022/12/01 23:48:39: Array
+(
+    [0] => 1
+    [1] => Array
+        (
+            [do] => last_visit
+            [module_name] => app\users\user
+        )
+
+    [2] => Array
+        (
+            [id] => 57
+        )
+
+)
+
+2022/12/01 23:49:01: /messenger/send/
+2022/12/01 23:49:01: Array
+(
+)
+
+2022/12/01 23:49:01: Array
+(
+    [0] => 1
+    [1] => Array
+        (
+            [do] => send
+            [module_name] => api\messenger\messenger
+        )
+
+    [2] => Array
+        (
+        )
+
+)
+
+2022/12/01 23:49:01: Array
+(
+    [0] => 1
+    [1] => Array
+        (
+            [do] => send
+            [module_name] => api\messenger\messenger
+        )
+
+    [2] => Array
+        (
+        )
+
+)
+
+2022/12/01 23:49:01: /users/last_visit/57/
+2022/12/01 23:49:01: /users/last_visit/57/
+2022/12/01 23:49:01: Array
+(
+)
+
+2022/12/01 23:49:01: Array
+(
+)
+
+2022/12/01 23:49:01: Array
+(
+    [0] => 1
+    [1] => Array
+        (
+            [do] => last_visit
+            [module_name] => app\users\user
+        )
+
+    [2] => Array
+        (
+            [id] => 57
+        )
+
+)
+
+2022/12/01 23:49:01: Array
+(
+    [0] => 1
+    [1] => Array
+        (
+            [do] => last_visit
+            [module_name] => app\users\user
+        )
+
+    [2] => Array
+        (
+            [id] => 57
+        )
+
+)
+
+2022/12/01 23:49:01: Array
+(
+    [0] => 1
+    [1] => Array
+        (
+            [do] => last_visit
+            [module_name] => app\users\user
+        )
+
+    [2] => Array
+        (
+            [id] => 57
+        )
+
+)
+
+2022/12/01 23:49:01: Array
+(
+    [0] => 1
+    [1] => Array
+        (
+            [do] => last_visit
+            [module_name] => app\users\user
+        )
+
+    [2] => Array
+        (
+            [id] => 57
+        )
+
+)
+
+2022/12/01 23:49:29: /messenger/send/
+2022/12/01 23:49:29: Array
+(
+)
+
+2022/12/01 23:49:29: Array
+(
+    [0] => 1
+    [1] => Array
+        (
+            [do] => send
+            [module_name] => api\messenger\messenger
+        )
+
+    [2] => Array
+        (
+        )
+
+)
+
+2022/12/01 23:49:29: Array
+(
+    [0] => 1
+    [1] => Array
+        (
+            [do] => send
+            [module_name] => api\messenger\messenger
+        )
+
+    [2] => Array
+        (
+        )
+
+)
+
+2022/12/01 23:49:29: /users/last_visit/57/
+2022/12/01 23:49:29: Array
+(
+)
+
+2022/12/01 23:49:29: Array
+(
+    [0] => 1
+    [1] => Array
+        (
+            [do] => last_visit
+            [module_name] => app\users\user
+        )
+
+    [2] => Array
+        (
+            [id] => 57
+        )
+
+)
+
+2022/12/01 23:49:29: Array
+(
+    [0] => 1
+    [1] => Array
+        (
+            [do] => last_visit
+            [module_name] => app\users\user
+        )
+
+    [2] => Array
+        (
+            [id] => 57
+        )
+
+)
+
+2022/12/01 23:49:29: /users/last_visit/57/
+2022/12/01 23:49:29: Array
+(
+)
+
+2022/12/01 23:49:29: Array
+(
+    [0] => 1
+    [1] => Array
+        (
+            [do] => last_visit
+            [module_name] => app\users\user
+        )
+
+    [2] => Array
+        (
+            [id] => 57
+        )
+
+)
+
+2022/12/01 23:49:29: Array
+(
+    [0] => 1
+    [1] => Array
+        (
+            [do] => last_visit
+            [module_name] => app\users\user
+        )
+
+    [2] => Array
+        (
+            [id] => 57
+        )
+
+)
+
+2022/12/01 23:49:29: /
+2022/12/01 23:49:29: Array
+(
+)
+
+2022/12/01 23:49:29: Array
+(
+    [0] => 1
+    [1] => Array
+        (
+            [do] => main
+            [module_name] => app\main\main
+        )
+
+    [2] => Array
+        (
+        )
+
+)
+
+2022/12/01 23:49:29: Array
+(
+    [0] => 1
+    [1] => Array
+        (
+            [do] => main
+            [module_name] => app\main\main
+        )
+
+    [2] => Array
+        (
+        )
+
+)
+
+2022/12/01 23:49:29: /
+2022/12/01 23:49:29: Array
+(
+)
+
+2022/12/01 23:49:29: Array
+(
+    [0] => 1
+    [1] => Array
+        (
+            [do] => main
+            [module_name] => app\main\main
+        )
+
+    [2] => Array
+        (
+        )
+
+)
+
+2022/12/01 23:49:29: Array
+(
+    [0] => 1
+    [1] => Array
+        (
+            [do] => main
+            [module_name] => app\main\main
+        )
+
+    [2] => Array
+        (
+        )
+
+)
+
+2022/12/01 23:49:32: /messages/
+2022/12/01 23:49:32: Array
+(
+)
+
+2022/12/01 23:49:32: Array
+(
+    [0] => 1
+    [1] => Array
+        (
+            [do] => messages
+            [module_name] => app\dashboard\dashboard
+        )
+
+    [2] => Array
+        (
+        )
+
+)
+
+2022/12/01 23:49:32: Array
+(
+    [0] => 1
+    [1] => Array
+        (
+            [do] => messages
+            [module_name] => app\dashboard\dashboard
+        )
+
+    [2] => Array
+        (
+        )
+
+)
+
+2022/12/01 23:49:32: /
+2022/12/01 23:49:32: Array
+(
+)
+
+2022/12/01 23:49:32: Array
+(
+    [0] => 1
+    [1] => Array
+        (
+            [do] => main
+            [module_name] => app\main\main
+        )
+
+    [2] => Array
+        (
+        )
+
+)
+
+2022/12/01 23:49:32: Array
+(
+    [0] => 1
+    [1] => Array
+        (
+            [do] => main
+            [module_name] => app\main\main
+        )
+
+    [2] => Array
+        (
+        )
+
+)
+
+2022/12/01 23:49:35: /user/1/
+2022/12/01 23:49:35: Array
+(
+)
+
+2022/12/01 23:49:35: Array
+(
+    [0] => 1
+    [1] => Array
+        (
+            [do] => auth_with_user
+            [module_name] => admin\dashboard\users
+        )
+
+    [2] => Array
+        (
+            [id] => 1
+        )
+
+)
+
+2022/12/01 23:49:35: Array
+(
+    [0] => 1
+    [1] => Array
+        (
+            [do] => auth_with_user
+            [module_name] => admin\dashboard\users
+        )
+
+    [2] => Array
+        (
+            [id] => 1
+        )
+
+)
+
+2022/12/01 23:49:35: /login_with_user/695/
+2022/12/01 23:49:35: Array
+(
+)
+
+2022/12/01 23:49:35: Array
+(
+    [0] => 1
+    [1] => Array
+        (
+            [do] => login_with_user
+            [module_name] => app\main\main
+        )
+
+    [2] => Array
+        (
+            [id] => 695
+        )
+
+)
+
+2022/12/01 23:49:35: Array
+(
+    [0] => 1
+    [1] => Array
+        (
+            [do] => login_with_user
+            [module_name] => app\main\main
+        )
+
+    [2] => Array
+        (
+            [id] => 695
+        )
+
+)
+
+2022/12/01 23:49:36: /dashboard/
+2022/12/01 23:49:36: Array
+(
+)
+
+2022/12/01 23:49:36: Array
+(
+    [0] => 1
+    [1] => Array
+        (
+            [do] => main
+            [module_name] => app\dashboard\dashboard
+        )
+
+    [2] => Array
+        (
+        )
+
+)
+
+2022/12/01 23:49:36: Array
+(
+    [0] => 1
+    [1] => Array
+        (
+            [do] => main
+            [module_name] => app\dashboard\dashboard
+        )
+
+    [2] => Array
+        (
+        )
+
+)
+
+2022/12/01 23:49:38: /messages/
+2022/12/01 23:49:38: Array
+(
+)
+
+2022/12/01 23:49:38: Array
+(
+    [0] => 1
+    [1] => Array
+        (
+            [do] => messages
+            [module_name] => app\dashboard\dashboard
+        )
+
+    [2] => Array
+        (
+        )
+
+)
+
+2022/12/01 23:49:38: Array
+(
+    [0] => 1
+    [1] => Array
+        (
+            [do] => messages
+            [module_name] => app\dashboard\dashboard
+        )
+
+    [2] => Array
+        (
+        )
+
+)
+
+2022/12/01 23:49:39: /auth/getid/
+2022/12/01 23:49:39: Array
+(
+)
+
+2022/12/01 23:49:39: Array
+(
+    [0] => 1
+    [1] => Array
+        (
+            [do] => getid
+            [module_name] => api\auth\auth
+        )
+
+    [2] => Array
+        (
+        )
+
+)
+
+2022/12/01 23:49:39: Array
+(
+    [0] => 1
+    [1] => Array
+        (
+            [do] => getid
+            [module_name] => api\auth\auth
+        )
+
+    [2] => Array
+        (
+        )
+
+)
+
+2022/12/01 23:49:39: /messages/
+2022/12/01 23:49:39: /users/last_visit/62/
+2022/12/01 23:49:39: Array
+(
+)
+
+2022/12/01 23:49:39: Array
+(
+)
+
+2022/12/01 23:49:39: Array
+(
+    [0] => 1
+    [1] => Array
+        (
+            [do] => messages
+            [module_name] => app\dashboard\dashboard
+        )
+
+    [2] => Array
+        (
+        )
+
+)
+
+2022/12/01 23:49:39: Array
+(
+    [0] => 1
+    [1] => Array
+        (
+            [do] => last_visit
+            [module_name] => app\users\user
+        )
+
+    [2] => Array
+        (
+            [id] => 62
+        )
+
+)
+
+2022/12/01 23:49:39: Array
+(
+    [0] => 1
+    [1] => Array
+        (
+            [do] => messages
+            [module_name] => app\dashboard\dashboard
+        )
+
+    [2] => Array
+        (
+        )
+
+)
+
+2022/12/01 23:49:39: Array
+(
+    [0] => 1
+    [1] => Array
+        (
+            [do] => last_visit
+            [module_name] => app\users\user
+        )
+
+    [2] => Array
+        (
+            [id] => 62
+        )
+
+)
+
+2022/12/01 23:49:39: /messenger/read/
+2022/12/01 23:49:39: Array
+(
+)
+
+2022/12/01 23:49:39: Array
+(
+    [0] => 1
+    [1] => Array
+        (
+            [do] => read_messages
+            [module_name] => api\messenger\messenger
+        )
+
+    [2] => Array
+        (
+        )
+
+)
+
+2022/12/01 23:49:39: Array
+(
+    [0] => 1
+    [1] => Array
+        (
+            [do] => read_messages
+            [module_name] => api\messenger\messenger
+        )
+
+    [2] => Array
+        (
+        )
+
+)
+
+2022/12/01 23:49:41: /users/last_visit/62/
+2022/12/01 23:49:41: /users/last_visit/62/
+2022/12/01 23:49:41: Array
+(
+)
+
+2022/12/01 23:49:41: Array
+(
+)
+
+2022/12/01 23:49:41: Array
+(
+    [0] => 1
+    [1] => Array
+        (
+            [do] => last_visit
+            [module_name] => app\users\user
+        )
+
+    [2] => Array
+        (
+            [id] => 62
+        )
+
+)
+
+2022/12/01 23:49:41: Array
+(
+    [0] => 1
+    [1] => Array
+        (
+            [do] => last_visit
+            [module_name] => app\users\user
+        )
+
+    [2] => Array
+        (
+            [id] => 62
+        )
+
+)
+
+2022/12/01 23:49:41: Array
+(
+    [0] => 1
+    [1] => Array
+        (
+            [do] => last_visit
+            [module_name] => app\users\user
+        )
+
+    [2] => Array
+        (
+            [id] => 62
+        )
+
+)
+
+2022/12/01 23:49:41: Array
+(
+    [0] => 1
+    [1] => Array
+        (
+            [do] => last_visit
+            [module_name] => app\users\user
+        )
+
+    [2] => Array
+        (
+            [id] => 62
+        )
+
+)
+
+2022/12/01 23:49:41: /messenger/send/
+2022/12/01 23:49:41: Array
+(
+)
+
+2022/12/01 23:49:41: Array
+(
+    [0] => 1
+    [1] => Array
+        (
+            [do] => send
+            [module_name] => api\messenger\messenger
+        )
+
+    [2] => Array
+        (
+        )
+
+)
+
+2022/12/01 23:49:41: Array
+(
+    [0] => 1
+    [1] => Array
+        (
+            [do] => send
+            [module_name] => api\messenger\messenger
+        )
+
+    [2] => Array
+        (
+        )
+
+)
+
+2022/12/01 23:49:57: /messenger/send/
+2022/12/01 23:49:57: Array
+(
+)
+
+2022/12/01 23:49:57: Array
+(
+    [0] => 1
+    [1] => Array
+        (
+            [do] => send
+            [module_name] => api\messenger\messenger
+        )
+
+    [2] => Array
+        (
+        )
+
+)
+
+2022/12/01 23:49:57: Array
+(
+    [0] => 1
+    [1] => Array
+        (
+            [do] => send
+            [module_name] => api\messenger\messenger
+        )
+
+    [2] => Array
+        (
+        )
+
+)
+
+2022/12/01 23:49:57: /users/last_visit/62/
+2022/12/01 23:49:57: /users/last_visit/62/
+2022/12/01 23:49:57: Array
+(
+)
+
+2022/12/01 23:49:57: Array
+(
+)
+
+2022/12/01 23:49:57: Array
+(
+    [0] => 1
+    [1] => Array
+        (
+            [do] => last_visit
+            [module_name] => app\users\user
+        )
+
+    [2] => Array
+        (
+            [id] => 62
+        )
+
+)
+
+2022/12/01 23:49:57: Array
+(
+    [0] => 1
+    [1] => Array
+        (
+            [do] => last_visit
+            [module_name] => app\users\user
+        )
+
+    [2] => Array
+        (
+            [id] => 62
+        )
+
+)
+
+2022/12/01 23:49:57: Array
+(
+    [0] => 1
+    [1] => Array
+        (
+            [do] => last_visit
+            [module_name] => app\users\user
+        )
+
+    [2] => Array
+        (
+            [id] => 62
+        )
+
+)
+
+2022/12/01 23:49:57: Array
+(
+    [0] => 1
+    [1] => Array
+        (
+            [do] => last_visit
+            [module_name] => app\users\user
+        )
+
+    [2] => Array
+        (
+            [id] => 62
+        )
+
+)
+
+2022/12/01 23:50:13: /messenger/send/
+2022/12/01 23:50:13: Array
+(
+)
+
+2022/12/01 23:50:13: Array
+(
+    [0] => 1
+    [1] => Array
+        (
+            [do] => send
+            [module_name] => api\messenger\messenger
+        )
+
+    [2] => Array
+        (
+        )
+
+)
+
+2022/12/01 23:50:13: Array
+(
+    [0] => 1
+    [1] => Array
+        (
+            [do] => send
+            [module_name] => api\messenger\messenger
+        )
+
+    [2] => Array
+        (
+        )
+
+)
+
+2022/12/01 23:50:13: /users/last_visit/62/
+2022/12/01 23:50:13: Array
+(
+)
+
+2022/12/01 23:50:13: /users/last_visit/62/
+2022/12/01 23:50:13: Array
+(
+)
+
+2022/12/01 23:50:13: Array
+(
+    [0] => 1
+    [1] => Array
+        (
+            [do] => last_visit
+            [module_name] => app\users\user
+        )
+
+    [2] => Array
+        (
+            [id] => 62
+        )
+
+)
+
+2022/12/01 23:50:13: Array
+(
+    [0] => 1
+    [1] => Array
+        (
+            [do] => last_visit
+            [module_name] => app\users\user
+        )
+
+    [2] => Array
+        (
+            [id] => 62
+        )
+
+)
+
+2022/12/01 23:50:13: Array
+(
+    [0] => 1
+    [1] => Array
+        (
+            [do] => last_visit
+            [module_name] => app\users\user
+        )
+
+    [2] => Array
+        (
+            [id] => 62
+        )
+
+)
+
+2022/12/01 23:50:13: Array
+(
+    [0] => 1
+    [1] => Array
+        (
+            [do] => last_visit
+            [module_name] => app\users\user
+        )
+
+    [2] => Array
+        (
+            [id] => 62
+        )
+
+)
+
+2022/12/01 23:50:43: /messages/
+2022/12/01 23:50:43: Array
+(
+)
+
+2022/12/01 23:50:43: Array
+(
+    [0] => 1
+    [1] => Array
+        (
+            [do] => messages
+            [module_name] => app\dashboard\dashboard
+        )
+
+    [2] => Array
+        (
+        )
+
+)
+
+2022/12/01 23:50:43: Array
+(
+    [0] => 1
+    [1] => Array
+        (
+            [do] => messages
+            [module_name] => app\dashboard\dashboard
+        )
+
+    [2] => Array
+        (
+        )
+
+)
+
+2022/12/01 23:50:45: /auth/getid/
+2022/12/01 23:50:45: Array
+(
+)
+
+2022/12/01 23:50:45: Array
+(
+    [0] => 1
+    [1] => Array
+        (
+            [do] => getid
+            [module_name] => api\auth\auth
+        )
+
+    [2] => Array
+        (
+        )
+
+)
+
+2022/12/01 23:50:45: Array
+(
+    [0] => 1
+    [1] => Array
+        (
+            [do] => getid
+            [module_name] => api\auth\auth
+        )
+
+    [2] => Array
+        (
+        )
+
+)
+
+2022/12/01 23:50:45: /users/last_visit/62/
+2022/12/01 23:50:45: /messages/
+2022/12/01 23:50:45: Array
+(
+)
+
+2022/12/01 23:50:45: Array
+(
+)
+
+2022/12/01 23:50:45: Array
+(
+    [0] => 1
+    [1] => Array
+        (
+            [do] => last_visit
+            [module_name] => app\users\user
+        )
+
+    [2] => Array
+        (
+            [id] => 62
+        )
+
+)
+
+2022/12/01 23:50:45: Array
+(
+    [0] => 1
+    [1] => Array
+        (
+            [do] => messages
+            [module_name] => app\dashboard\dashboard
+        )
+
+    [2] => Array
+        (
+        )
+
+)
+
+2022/12/01 23:50:45: Array
+(
+    [0] => 1
+    [1] => Array
+        (
+            [do] => last_visit
+            [module_name] => app\users\user
+        )
+
+    [2] => Array
+        (
+            [id] => 62
+        )
+
+)
+
+2022/12/01 23:50:45: Array
+(
+    [0] => 1
+    [1] => Array
+        (
+            [do] => messages
+            [module_name] => app\dashboard\dashboard
+        )
+
+    [2] => Array
+        (
+        )
+
+)
+
+2022/12/01 23:50:45: /messenger/read/
+2022/12/01 23:50:45: Array
+(
+)
+
+2022/12/01 23:50:45: Array
+(
+    [0] => 1
+    [1] => Array
+        (
+            [do] => read_messages
+            [module_name] => api\messenger\messenger
+        )
+
+    [2] => Array
+        (
+        )
+
+)
+
+2022/12/01 23:50:45: Array
+(
+    [0] => 1
+    [1] => Array
+        (
+            [do] => read_messages
+            [module_name] => api\messenger\messenger
+        )
+
+    [2] => Array
+        (
+        )
+
+)
+
+2022/12/01 23:50:47: /messenger/send/
+2022/12/01 23:50:47: Array
+(
+)
+
+2022/12/01 23:50:47: Array
+(
+    [0] => 1
+    [1] => Array
+        (
+            [do] => send
+            [module_name] => api\messenger\messenger
+        )
+
+    [2] => Array
+        (
+        )
+
+)
+
+2022/12/01 23:50:47: Array
+(
+    [0] => 1
+    [1] => Array
+        (
+            [do] => send
+            [module_name] => api\messenger\messenger
+        )
+
+    [2] => Array
+        (
+        )
+
+)
+
+2022/12/01 23:50:47: /users/last_visit/62/
+2022/12/01 23:50:47: Array
+(
+)
+
+2022/12/01 23:50:47: Array
+(
+    [0] => 1
+    [1] => Array
+        (
+            [do] => last_visit
+            [module_name] => app\users\user
+        )
+
+    [2] => Array
+        (
+            [id] => 62
+        )
+
+)
+
+2022/12/01 23:50:47: Array
+(
+    [0] => 1
+    [1] => Array
+        (
+            [do] => last_visit
+            [module_name] => app\users\user
+        )
+
+    [2] => Array
+        (
+            [id] => 62
+        )
+
+)
+
+2022/12/01 23:50:47: /users/last_visit/62/
+2022/12/01 23:50:47: Array
+(
+)
+
+2022/12/01 23:50:47: Array
+(
+    [0] => 1
+    [1] => Array
+        (
+            [do] => last_visit
+            [module_name] => app\users\user
+        )
+
+    [2] => Array
+        (
+            [id] => 62
+        )
+
+)
+
+2022/12/01 23:50:47: Array
+(
+    [0] => 1
+    [1] => Array
+        (
+            [do] => last_visit
+            [module_name] => app\users\user
+        )
+
+    [2] => Array
+        (
+            [id] => 62
+        )
+
+)
+
+2022/12/01 23:51:06: /messages/
+2022/12/01 23:51:06: Array
+(
+)
+
+2022/12/01 23:51:06: Array
+(
+    [0] => 1
+    [1] => Array
+        (
+            [do] => messages
+            [module_name] => app\dashboard\dashboard
+        )
+
+    [2] => Array
+        (
+        )
+
+)
+
+2022/12/01 23:51:06: Array
+(
+    [0] => 1
+    [1] => Array
+        (
+            [do] => messages
+            [module_name] => app\dashboard\dashboard
+        )
+
+    [2] => Array
+        (
+        )
+
+)
+
+2022/12/01 23:51:07: /auth/getid/
+2022/12/01 23:51:07: Array
+(
+)
+
+2022/12/01 23:51:07: Array
+(
+    [0] => 1
+    [1] => Array
+        (
+            [do] => getid
+            [module_name] => api\auth\auth
+        )
+
+    [2] => Array
+        (
+        )
+
+)
+
+2022/12/01 23:51:07: Array
+(
+    [0] => 1
+    [1] => Array
+        (
+            [do] => getid
+            [module_name] => api\auth\auth
+        )
+
+    [2] => Array
+        (
+        )
+
+)
+
+2022/12/01 23:51:08: /messages/
+2022/12/01 23:51:08: /users/last_visit/62/
+2022/12/01 23:51:08: Array
+(
+)
+
+2022/12/01 23:51:08: Array
+(
+)
+
+2022/12/01 23:51:08: Array
+(
+    [0] => 1
+    [1] => Array
+        (
+            [do] => messages
+            [module_name] => app\dashboard\dashboard
+        )
+
+    [2] => Array
+        (
+        )
+
+)
+
+2022/12/01 23:51:08: Array
+(
+    [0] => 1
+    [1] => Array
+        (
+            [do] => messages
+            [module_name] => app\dashboard\dashboard
+        )
+
+    [2] => Array
+        (
+        )
+
+)
+
+2022/12/01 23:51:08: Array
+(
+    [0] => 1
+    [1] => Array
+        (
+            [do] => last_visit
+            [module_name] => app\users\user
+        )
+
+    [2] => Array
+        (
+            [id] => 62
+        )
+
+)
+
+2022/12/01 23:51:08: Array
+(
+    [0] => 1
+    [1] => Array
+        (
+            [do] => last_visit
+            [module_name] => app\users\user
+        )
+
+    [2] => Array
+        (
+            [id] => 62
+        )
+
+)
+
+2022/12/01 23:51:08: /messenger/read/
+2022/12/01 23:51:08: Array
+(
+)
+
+2022/12/01 23:51:08: Array
+(
+    [0] => 1
+    [1] => Array
+        (
+            [do] => read_messages
+            [module_name] => api\messenger\messenger
+        )
+
+    [2] => Array
+        (
+        )
+
+)
+
+2022/12/01 23:51:08: Array
+(
+    [0] => 1
+    [1] => Array
+        (
+            [do] => read_messages
+            [module_name] => api\messenger\messenger
+        )
+
+    [2] => Array
+        (
+        )
+
+)
+
+2022/12/01 23:51:09: /users/last_visit/62/
+2022/12/01 23:51:09: /users/last_visit/62/
+2022/12/01 23:51:09: Array
+(
+)
+
+2022/12/01 23:51:09: Array
+(
+)
+
+2022/12/01 23:51:09: /messenger/send/
+2022/12/01 23:51:09: Array
+(
+)
+
+2022/12/01 23:51:09: Array
+(
+    [0] => 1
+    [1] => Array
+        (
+            [do] => last_visit
+            [module_name] => app\users\user
+        )
+
+    [2] => Array
+        (
+            [id] => 62
+        )
+
+)
+
+2022/12/01 23:51:09: Array
+(
+    [0] => 1
+    [1] => Array
+        (
+            [do] => last_visit
+            [module_name] => app\users\user
+        )
+
+    [2] => Array
+        (
+            [id] => 62
+        )
+
+)
+
+2022/12/01 23:51:09: Array
+(
+    [0] => 1
+    [1] => Array
+        (
+            [do] => last_visit
+            [module_name] => app\users\user
+        )
+
+    [2] => Array
+        (
+            [id] => 62
+        )
+
+)
+
+2022/12/01 23:51:09: Array
+(
+    [0] => 1
+    [1] => Array
+        (
+            [do] => last_visit
+            [module_name] => app\users\user
+        )
+
+    [2] => Array
+        (
+            [id] => 62
+        )
+
+)
+
+2022/12/01 23:51:09: Array
+(
+    [0] => 1
+    [1] => Array
+        (
+            [do] => send
+            [module_name] => api\messenger\messenger
+        )
+
+    [2] => Array
+        (
+        )
+
+)
+
+2022/12/01 23:51:09: Array
+(
+    [0] => 1
+    [1] => Array
+        (
+            [do] => send
+            [module_name] => api\messenger\messenger
+        )
+
+    [2] => Array
+        (
+        )
+
+)
+
