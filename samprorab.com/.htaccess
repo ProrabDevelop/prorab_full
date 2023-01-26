@@ -12,3 +12,4 @@ RewriteEngine On
 RewriteEngine On
 RewriteRule ^(.*)$ /web/$1 [L]
 
+

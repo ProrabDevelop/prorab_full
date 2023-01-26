@@ -2,10 +2,10 @@
 <div class="modal_wrapper white_bg"></div>
 <?php
 
-    $user = \core\engine\DATA::get('USER');
+   /* $user = \core\engine\DATA::get('USER');
     if(!isset($user->id) || $user->id== ""){
         $user->id = 46;
-    }
+    }*/
 ?>
 <form id="avatar_uploader">
      <input type="hidden" name="user_id" id="avatar_upload_user_id" value="<? $user = \core\engine\DATA::get('USER'); echo ($user->id)? $user->id : 0; ?>">

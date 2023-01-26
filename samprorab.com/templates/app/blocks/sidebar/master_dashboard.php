@@ -32,7 +32,13 @@ $all_unreaded_count = (new \app\std_models\message())->get_all_unread_count($use
             <span>Настройки</span>
         </a>
 
-        <ul>
+        <ul><li>
+
+        <div class="back_step_tabs" style="position:absolute; top:20px; left:20px; cursor:pointer;">
+                            <p class="close_tab" onClick="$('.icon-settings').parent().click();"><i class="icon icon-left-open"></i></p>
+                        </div>
+
+        </li>
             <li><a class="child" href="<?= URL?>settings"><span>О мастере</span><i class="icon icon-right-open"></i></a></li>
             <li><a class="child" href="<?= URL?>contacts"><span>Способы связи</span><i class="icon icon-right-open"></i></a></li>
             <li><a class="child" href="<?= URL?>prices"><span>Услуги и цены</span><i class="icon icon-right-open"></i></a></li>

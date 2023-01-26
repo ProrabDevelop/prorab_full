@@ -19,6 +19,7 @@
 </div>
 
 
+<? get_block('footer_menu') ?>
 <? get_block('footer');?>
 
 </body>

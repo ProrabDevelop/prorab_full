@@ -10,6 +10,7 @@ use core\engine\rebuild_rating;
 use core\engine\std_module;
 use core\engine\std_module_admin;
 use core\engine\view;
+use PDO;
 
 class users extends std_module_admin {
 
@@ -78,12 +79,15 @@ class users extends std_module_admin {
 
 
     public function auth_with_user($data){
-
+        if($_SERVER["HTTP_REFERER"] == "https://admin.samprorab.com/users/"){
+            
         $user_id = $data['id'];
         AUTH::init();
         $ses_id = AUTH::admin_with_user(intval($user_id));
-
         header('Location: '.BASE_URL.'login_with_user/'.$ses_id.'/');
+        } else {
+            header('Location: '.BASE_URL."/auth/logout");
+        }
 
     }
 

@@ -496,9 +496,9 @@ if(DATA::has('USER')){
 
                 <div class="tab_content" role="global_tabs" tab="master">
 
-                    <div class="back_step_tabs">
+                    <!--<div class="back_step_tabs">
                         <p class="close_tab"><i class="icon icon-left-open"></i><span>Назад</span></p>
-                    </div>
+                    </div>-->
 
                     <div class="row tab_master">
 
@@ -610,9 +610,9 @@ if(DATA::has('USER')){
                 <? if(!empty($user->services)){?>
                     <div class="tab_content " role="global_tabs" tab="prices">
 
-                        <div class="back_step_tabs">
+                        <!--<div class="back_step_tabs">
                             <p class="close_tab"><i class="icon icon-left-open"></i><span>Назад</span></p>
-                        </div>
+                        </div>-->
 
                         <h2>Услуги и цены</h2>
                         <div class="price_table">
@@ -631,9 +631,9 @@ if(DATA::has('USER')){
                 <? if(!empty($user->works)) { ?>
                     <div class="tab_content" role="global_tabs" tab="works">
 
-                        <div class="back_step_tabs">
+                        <!--<div class="back_step_tabs">
                             <p class="close_tab"><i class="icon icon-left-open"></i><span>Назад</span></p>
-                        </div>
+                        </div>-->
 
                         <h2>Выполненные работы</h2>
 
@@ -672,9 +672,9 @@ if(DATA::has('USER')){
                 <? if(!empty($user->reviews)) { ?>
                     <div class="tab_content" role="global_tabs" tab="reviews">
 
-                        <div class="back_step_tabs">
+                        <!--<div class="back_step_tabs">
                             <p class="close_tab"><i class="icon icon-left-open"></i><span>Назад</span></p>
-                        </div>
+                        </div>-->
 
                         <h2>Отзывы</h2>
 

@@ -53,7 +53,7 @@ $header_step = DATA::get('header_step');
                     </div>
                 </div>
 
-                <? if($AUTH->is_auth()){?>
+                <? /*if($AUTH->is_auth()){?>
                     <div class="profile">
                         <div class="lk_header_dropdown_menu">
                             <div class="dropdown_title">
@@ -82,7 +82,7 @@ $header_step = DATA::get('header_step');
                 <a class="login get_modal" modal="modal_login">
                     <i class="icon-auth"></i>
                 </a>
-                <?}?>
+                <?}*/?>
 
             </div>
 
